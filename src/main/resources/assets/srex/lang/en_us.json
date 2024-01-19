@@ -1,0 +1,9 @@
+{
+  "itemGroup.srex": "SrEX",
+  "item.srex.1": "Shit item 1",
+  "item.srex.2": "Shit item 2",
+  "item.srex.3": "Shit item 3",
+  "item.srex.4": "Ominous looking rock",
+  "item.srex.4.tooltip": "Halves your stamina regen by looking at you ominously",
+  "attrib.srex.stamina_reduction": "Stamina Cost Reduction"
+}
